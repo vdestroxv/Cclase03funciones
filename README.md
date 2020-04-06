@@ -1,6 +1,6 @@
 # Barrios Sergio
 # tutorial de git + github
-Programación en C ,Clase 03  funciones
+Programación en C ,Clase 03  funciones y github
 
   -1 crear una carpeta
   
